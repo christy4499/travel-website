@@ -1,0 +1,42 @@
+@media(max-width:1320px){
+    .about_items_heading{
+        font-size: 31px;
+        font-weight: 700;
+        margin: 0px;
+    }
+    .heading_about{
+        font-size: 40px;
+        line-height: 55px;
+    display: inline-block;}
+    .images_hotel_1{
+     display: inline-block;
+     width: 90%;
+     height: 85%;
+    }
+    .images_hotel_2{
+        display: inline-block;
+        width: 100%;
+        height: 85%;
+       }
+       .images_hotel_3{
+        display: inline-block;
+        width: 70%;
+        height: 65%;
+       }
+
+       .images_hotel_4{
+        display: inline-block;
+        width: 90%;
+        height: 80%;
+       }
+       .service_container{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 50px 0px;
+    }
+    
+}
